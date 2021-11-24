@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-##Overview of the Project
+## Overview of the Project
 
 As analyst, we have been asked to summarize earthquake data in an interactive HTML map. In this analysis we have shown 3 differently styled graphs that show earthquakes by magnitude with their locations and relative sizes. The graphs are shown in street view, in geographical view and in dark view. You can select the style with the legend at the top right hand corner. The radius on the map is displayed greater based on the related earthquakes' magnitude. This graph also helps us realize that the earthquakes do in fact occur near the tectonic plates.
 
